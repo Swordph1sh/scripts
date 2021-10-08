@@ -1,0 +1,8 @@
+Yesterdays test line: Yesterdays example included a strange base64 string!!!
+WWVzdGVyZGF5cyBleGFtcGxlIGluY2x1ZGVkIGEgc3RyYW5nZSBiYXNlNjQgc3RyaW5nISEh
+
+Todays test line: Todays example includes some strange base64 strings!!!
+VG9kYXlzIGV4YW1wbGUgaW5jbHVkZXMgc29tZSBzdHJhbmdlIGJhc2U2NCBzdHJpbmdzISEh
+
+Tomorrows test line: Tomorrows example is surely to include another strange base64 string too!!!
+VG9tb3Jyb3dzIGV4YW1wbGUgaXMgc3VyZWx5IHRvIGluY2x1ZGUgYW5vdGhlciBzdHJhbmdlIGJhc2U2NCBzdHJpbmcgdG9vISEh
